@@ -6,18 +6,9 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.gif" width="35px">Hola Amigo!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;Problem+Solver+%26+Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Problem+Solver+%26+Tech+Innovator" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/jbpranov2204?label=Follow&style=social)](https://github.com/jbpranov2204)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jbpranov2204)
-  [![Profile Views](https://komarev.com/ghpvc/?username=jbpranov2204&color=blue&style=flat-square)](https://github.com/jbpranov2204)
-  
-</div>
-
----
 
 ## 🎯 About Me
 
