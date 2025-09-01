@@ -1,8 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Pranov%20JB&fontSize=65&fontAlignY=35&desc=Developer%20|%20AI%20Engineer&descSize=18&descAlignY=55&animation=twinkling" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Pranov%20JB&fontSize=65&fontAlignY=35&desc=GOD%20|%20BOSS%20Enthusiast%20|%20ML%20Legend&descSize=18&descAlignY=55&animation=twinkling" />
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.gif" width="35px"> Hi, I'm JB Pranov!
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.gif" width="35px">Hola Amigo!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;Problem+Solver+%26+Tech+Innovator" alt="Typing SVG" />
