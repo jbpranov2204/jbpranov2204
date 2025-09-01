@@ -66,8 +66,6 @@ I'm a passionate *AI/ML Engineer* and *Software Developer* from India, dedicated
 <br>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 </details>
 
@@ -77,7 +75,6 @@ I'm a passionate *AI/ML Engineer* and *Software Developer* from India, dedicated
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -127,47 +124,17 @@ I'm a passionate *AI/ML Engineer* and *Software Developer* from India, dedicated
 </div>
 </details>
 
-## 🎯 2025 Goals & Roadmap
 
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Technical Goals
-- [ ] Master cloud platforms (AWS/GCP/Azure)
-- [ ] Build production-ready ML pipelines
-- [ ] Contribute to 50+ open source projects
-- [ ] Develop expertise in MLOps & DevOps
-- [ ] Create an AI-powered SaaS product
 
 </td>
 <td width="50%">
 
-### 📚 Learning Goals
-- [ ] Complete advanced Deep Learning specialization
-- [ ] Master Kubernetes & containerization
-- [ ] Learn Rust for systems programming
-- [ ] Study advanced computer vision techniques
-- [ ] Explore quantum computing basics
 
 </td>
 </tr>
 </table>
 
-## 💡 Current Focus
 
-<div align="center">
-
-mermaid
-graph LR
-    A[Current Focus] --> B[Advanced ML/DL]
-    A --> C[Cloud Architecture]
-    A --> D[Full-Stack Development]
-    B --> E[Computer Vision]
-    B --> F[Natural Language Processing]
-    C --> G[AWS/GCP Certification]
-    D --> H[MERN Stack]
-    D --> I[Flutter Apps]
 
 
 </div>
@@ -181,10 +148,10 @@ I'm always excited to connect with fellow developers, collaborate on projects, o
 <a href="https://github.com/jbpranov2204">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/jbpranov2204">
+<a href="https://www.linkedin.com/in/pranov-j-b-842158267/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:jbpranov@example.com">
+<a href="mailto:jbpranov@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
