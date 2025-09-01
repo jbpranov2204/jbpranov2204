@@ -26,11 +26,10 @@
 I'm a passionate *AI/ML Engineer* and *Software Developer* from India, dedicated to creating innovative solutions that bridge the gap between cutting-edge technology and real-world applications.
 
 - 🔭 Currently working on *Advanced Machine Learning Projects*
-- 🌱 Learning *Cloud Computing, DevOps, and Advanced AI techniques*
 - 👯 Open to collaborate on *AI/ML projects and Open Source contributions*
-- 💡 Interested in *Computer Vision, NLP, and Full-Stack Development*
+- 💡 Interested in *NLP, and Full-Stack Development*
 - ⚡ Fun fact: *I turn coffee into code and bugs into features!*
-- 📍 Location: *Mumbai, Maharashtra, India*
+- 📍 Location: *Chennai,Tamilnadu, India*
 
 <br clear="right"/>
 
@@ -42,10 +41,7 @@ I'm a passionate *AI/ML Engineer* and *Software Developer* from India, dedicated
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 </details>
 
 <details open>
